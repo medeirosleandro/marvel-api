@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MarvelApp</string>
+    <string name="api_error_characters">Error loading Characters</string>
+    <string name="sample_character_name">Iron Man</string>
+    <string name="sample_character_id">2345324232</string>
+</resources>
